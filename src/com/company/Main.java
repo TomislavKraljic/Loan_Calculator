@@ -1,6 +1,5 @@
 package com.company;
 
-import java.sql.SQLOutput;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
